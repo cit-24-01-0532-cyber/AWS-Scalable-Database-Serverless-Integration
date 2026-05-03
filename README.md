@@ -1,4 +1,4 @@
-# AWS Serverless Image Processing & Database Integration
+# AWS Scalable Database & Serverless Integration
 
 This project demonstrates a robust cloud architecture using **AWS Serverless** technologies. It combines event-driven image processing with a highly scalable database layer using **Amazon Aurora Serverless**.
 
